@@ -20,7 +20,7 @@ const Header = () => {
           </NavLink>
         </ul>
       </nav>
-      <h1>DRAGIMINIMALART</h1>
+      <h1>Alternative Poster Minimal Art</h1>
     </div>
   );
 };
